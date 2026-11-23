@@ -1,0 +1,6 @@
+:HL["/altyn-tires-demo/_next/static/chunks/3ja4zlvqys9q_.css","style"]
+:HL["/altyn-tires-demo/_next/static/media/70bc3e132a0a741e-s.p.3t6q91iet4nsy.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/altyn-tires-demo/_next/static/media/8a480f0b521d4e75-s.p.1qq4vpdcun5oj.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/altyn-tires-demo/_next/static/media/caa3a2e1cccd8315-s.p.0wgildi0cnwt9.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/altyn-tires-demo/_next/static/media/cc545e633e20c56d-s.p.176arc174-8zp.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"account","param":null,"prefetchHints":0,"slots":{"children":{"name":"bookings","param":null,"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}}}},"staleTime":300,"buildId":"4j26VbxxqRNZ6YS_-YXA2"}
